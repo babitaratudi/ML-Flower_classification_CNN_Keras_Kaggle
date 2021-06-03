@@ -1,4 +1,4 @@
-# Flower Clssification using Deep CNN by using Keras Library
+# Flower Clssification with Deep CNN by using Keras Library
 
 ## Importing Various Modules from Keras Library.
 * Dataset downloaded from kaggel.
