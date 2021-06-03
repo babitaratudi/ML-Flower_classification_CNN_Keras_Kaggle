@@ -1,7 +1,7 @@
 # Flower Clssification using Deep CNN by using Keras Library
 
 ## Importing Various Modules from Keras Library.
-* Dataset downloaed from kaggel.
+* Dataset downloaded from kaggel.
 * Different flower saved in the form of an array.
 * By using keras library downloaded Deep learning library sunch as models,optimizer,layers.
 
